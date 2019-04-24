@@ -125,3 +125,4 @@ dmypy.json
 
 # log files
 tflog/
+model.h5

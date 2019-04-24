@@ -9,6 +9,8 @@ verify_ssl = true
 tensorflow = "*"
 keras = "*"
 jupyter = "*"
+matplotlib = "*"
+numpy = "*"
 
 [requires]
 python_version = "3.6"
